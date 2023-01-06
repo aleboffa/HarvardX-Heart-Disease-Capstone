@@ -9,6 +9,6 @@ Regards,
 
 Alejandro Boffa
 
-Ethical Hacking University Expert
+Ethical Hacking University Expert , Professional Data Scientist , Python Developer
 
 https://www.linkedin.com/in/alejandro-oscar-boffa/
